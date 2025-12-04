@@ -1,0 +1,2 @@
+# jojo-PING
+detect Ping
